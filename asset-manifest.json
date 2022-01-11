@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hackathon/static/css/main.9cf0add7.css",
+    "main.js": "/hackathon/static/js/main.bb35ac2c.js",
+    "static/js/787.02138de2.chunk.js": "/hackathon/static/js/787.02138de2.chunk.js",
+    "static/media/image2.jpg": "/hackathon/static/media/image2.bd0a0bd6a19c7a66290e.jpg",
+    "static/media/image3.jpg": "/hackathon/static/media/image3.55b502f30d9d0fb633cc.jpg",
+    "static/media/image.jpg": "/hackathon/static/media/image.d3f9680e852d66d6e9a5.jpg",
+    "index.html": "/hackathon/index.html",
+    "main.9cf0add7.css.map": "/hackathon/static/css/main.9cf0add7.css.map",
+    "main.bb35ac2c.js.map": "/hackathon/static/js/main.bb35ac2c.js.map",
+    "787.02138de2.chunk.js.map": "/hackathon/static/js/787.02138de2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cf0add7.css",
+    "static/js/main.bb35ac2c.js"
+  ]
+}
