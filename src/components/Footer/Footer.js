@@ -5,7 +5,7 @@ const Footer = () => {
         <>
             <div style={{textAlign:"center", margin:"40px"}}>
                 <footer>
-                    <p>Hecho por Programa Desde Tu Casa 💕 </p>
+                    <p>@Hecho por Rama, Abru Trenyan, David Schvartz y Didi </p>
                 </footer>
             </div>
         </>
